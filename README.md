@@ -1,6 +1,8 @@
 # AirBnB Listings & Reviews
 <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiMauZ0KC4xJyL-oTVTjwqKNxIYzkwItAbUQ&s" height="300" width= "990">
 <img src = "https://i0.wp.com/pinterpoin.com/wp-content/uploads/2022/08/AIRBNB-Img-1.png?ssl=1" height="340" width= "990">
+
+
 ## Project Overview
 This project analyzes Airbnb listing and review data to uncover valuable insights into the factors influencing the success of Airbnb listings.<br> By examining key attributes such as listing features, host behavior, and review patterns, this analysis aims to help hosts optimize their listings and provide potential guests with data-driven recommendations
 
