@@ -1,6 +1,6 @@
 # AirBnB Listings & Reviews
 <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiMauZ0KC4xJyL-oTVTjwqKNxIYzkwItAbUQ&s" height="300" width= "990">
-<img src = "https://i0.wp.com/pinterpoin.com/wp-content/uploads/2022/08/AIRBNB-Img-1.png?ssl=1" height="340" width= "990">
+
 
 
 ## Project Overview
