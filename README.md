@@ -1,9 +1,10 @@
 # AirBnB Listings & reviews
 
 ## Project Overview
-This project focuses on analyzing Airbnb data, including listings and reviews, to extract actionable insights related to the platform’s operations. The analysis examines listing attributes, host behavior, and review patterns to understand how these factors affect the success of Airbnb listings.
+This project analyzes Airbnb listing and review data to uncover valuable insights into the factors influencing the success of Airbnb listings.<br> By examining key attributes such as listing features, host behavior, and review patterns, this analysis aims to help hosts optimize their listings and provide potential guests with data-driven recommendations
 
-
+## Dataset
+[get the dataset here](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)
 
 
 
